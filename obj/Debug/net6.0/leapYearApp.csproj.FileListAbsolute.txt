@@ -1,0 +1,15 @@
+/home/ekbn/leapYearApp/bin/Debug/net6.0/leapYearApp
+/home/ekbn/leapYearApp/bin/Debug/net6.0/leapYearApp.deps.json
+/home/ekbn/leapYearApp/bin/Debug/net6.0/leapYearApp.runtimeconfig.json
+/home/ekbn/leapYearApp/bin/Debug/net6.0/leapYearApp.dll
+/home/ekbn/leapYearApp/bin/Debug/net6.0/leapYearApp.pdb
+/home/ekbn/leapYearApp/obj/Debug/net6.0/leapYearApp.csproj.AssemblyReference.cache
+/home/ekbn/leapYearApp/obj/Debug/net6.0/leapYearApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ekbn/leapYearApp/obj/Debug/net6.0/leapYearApp.AssemblyInfoInputs.cache
+/home/ekbn/leapYearApp/obj/Debug/net6.0/leapYearApp.AssemblyInfo.cs
+/home/ekbn/leapYearApp/obj/Debug/net6.0/leapYearApp.csproj.CoreCompileInputs.cache
+/home/ekbn/leapYearApp/obj/Debug/net6.0/leapYearApp.dll
+/home/ekbn/leapYearApp/obj/Debug/net6.0/refint/leapYearApp.dll
+/home/ekbn/leapYearApp/obj/Debug/net6.0/leapYearApp.pdb
+/home/ekbn/leapYearApp/obj/Debug/net6.0/leapYearApp.genruntimeconfig.cache
+/home/ekbn/leapYearApp/obj/Debug/net6.0/ref/leapYearApp.dll
